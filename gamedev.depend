@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1393574329 source:c:\users\christoph\c++\sdl_test2\src\ltexture.cpp
+	"LTexture.h"
+
+1393574334 c:\users\christoph\c++\sdl_test2\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDLHelper.h>
+	<string>
+
+1393575848 c:\users\christoph\c++\sdl_test2\include\sdlhelper.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1393577936 source:c:\users\christoph\c++\sdl_test2\src\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+	"SDLHelper.h"
+
+1393578498 source:c:\users\christoph\c++\sdl_test2\src\sdlhelper.cpp
+	"SDLHelper.h"
+
+1393578480 source:c:\users\christoph\c++\sdl_test2\src\ltimer.cpp
+	"LTimer.h"
+
+1393578456 c:\users\christoph\c++\sdl_test2\include\ltimer.h
+	<SDL.h>
+	<string>
+
